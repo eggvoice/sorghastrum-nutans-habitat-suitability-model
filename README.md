@@ -3,6 +3,8 @@
 
 ## Overview
 
+The final project of GEOG 4463-5463 (Earth Analytics Bootcamp) is to look into building a habitat suitability model for Sorghasstrum Nutans.
+
 This repository contains a Jupyter Notebook (`sorghastrum-nutans.ipynb`) which is the core of the content. 
 A HTML file is generated so you can preview the results. All supporting images are stored in the `\img` folder.
 
