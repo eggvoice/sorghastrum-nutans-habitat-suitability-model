@@ -1,4 +1,5 @@
 # Sorghastrum Nutans Habitat Suitability Model
+[![DOI](https://zenodo.org/badge/732454940.svg)](https://zenodo.org/doi/10.5281/zenodo.10399448)
 
 ## Overview
 
